@@ -1,8 +1,8 @@
 # dri-xls-to-xml
 
 ## Requirements
-Windows OS
-Microsoft Excel
+ * Windows OS
+ * Microsoft Excel
 
 ## Install
 To install, save the add-in, then in Excel, go to the Developer tab (https://msdn.microsoft.com/en-us/library/bb608625.aspx) , and select Add-Ins, and then Browse. Find where you saved the add-in file and select it. Once installed this should create a new tab 'Add-Ins' after Developer, with one option 'DRI XML Export'.
